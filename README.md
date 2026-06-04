@@ -2,7 +2,7 @@
 
 > **Status:** Specification & Architecture Complete | Implementation Backlog Defined  
 > **Scope:** India income-tax filing-support SaaS for salaried ITR-1 filers (AY 2025-26)  
-> **Author:** [Sahil Zafar](https://github.com/sahilzafar) — BCom (Hons) Accounting | Data Analytics & Full-Stack Development
+> **Author:** [Sahil Zafar](https://github.com/netizen-1201) — BCom (Hons) Accounting | Data Analytics & Full-Stack Development
 
 ---
 
@@ -27,7 +27,6 @@ This repository contains the complete design-phase output: PRD, system architect
 | `docs/07_frontend/` | Next.js screen specs, navigation flows, mobile-first vs desktop-first decisions |
 | `docs/08_admin/` | Operations console, RBAC, maker-checker approvals, health monitoring |
 | `docs/09_delivery/` | 83 implementation chunks across 15 epics, 10-sprint execution plan |
-| `resume/` | Role-tailored resume versions (Data Analyst, Financial Analyst, SWE, BA) |
 
 ---
 
@@ -80,4 +79,4 @@ See [`docs/09_delivery/`](docs/09_delivery/) for the implementation backlog:
 
 ---
 
-**Contact:** sahilzafar12001@gmail.com | Jabalpur, Madhya Pradesh, India
+**Contact:** sahilzafar1201@gmail.com | Jabalpur, Madhya Pradesh, India
