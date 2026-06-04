@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="markmap mm-7vqqhd-2" style="width: 100%; height: 100%;"><style>.markmap{--markmap-max-width: 9999px;--markmap-a-color: #0097e6;--markmap-a-hover-color: #00a8ff;--markmap-code-bg: #f0f0f0;--markmap-code-color: #555;--markmap-highlight-bg: #ffeaa7;--markmap-table-border: 1px solid currentColor;--markmap-font: 300 16px/20px sans-serif;--markmap-circle-open-bg: #fff;--markmap-text-color: #333;--markmap-highlight-node-bg: #ff02;font:var(--markmap-font);color:var(--markmap-text-color)}.markmap-link{fill:none}.markmap-node&gt;circle{cursor:pointer}.markmap-foreign{display:inline-block}.markmap-foreign p{margin:0}.markmap-foreign a{color:var(--markmap-a-color)}.markmap-foreign a:hover{color:var(--markmap-a-hover-color)}.markmap-foreign code{padding:.25em;font-size:calc(1em - 2px);color:var(--markmap-code-color);background-color:var(--markmap-code-bg);border-radius:2px}.markmap-foreign pre{margin:0}.markmap-foreign pre&gt;code{display:block}.markmap-foreign del{text-decoration:line-through}.markmap-foreign em{font-style:italic}.markmap-foreign strong{font-weight:700}.markmap-foreign mark{background:var(--markmap-highlight-bg)}.markmap-foreign table,.markmap-foreign th,.markmap-foreign td{border-collapse:collapse;border:var(--markmap-table-border)}.markmap-foreign img{display:inline-block}.markmap-foreign svg{fill:currentColor}.markmap-foreign&gt;div{width:var(--markmap-max-width);text-align:left}.markmap-foreign&gt;div&gt;div{display:inline-block}.markmap-highlight rect{fill:var(--markmap-highlight-node-bg)}.markmap-dark .markmap{--markmap-code-bg: #1a1b26;--markmap-code-color: #ddd;--markmap-circle-open-bg: #444;--markmap-text-color: #eee}</style><g transform="translate(20.000000000000057,328.336355394379) scale(0.6890299184043517)"><path class="markmap-link" data-depth="3" data-path="1.3.4" d="M318,-219.625C358,-219.625,358,-110.812,398,-110.812" stroke-width="1.375" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="3" data-path="1.5.6" d="M328,-26.5C368,-26.5,368,-79.437,408,-79.437" stroke-width="1.375" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="3" data-path="1.5.7" d="M328,-26.5C368,-26.5,368,-53.062,408,-53.062" stroke-width="1.375" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="3" data-path="1.5.8" d="M328,-26.5C368,-26.5,368,-26.687,408,-26.687" stroke-width="1.375" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="3" data-path="1.5.9" d="M328,-26.5C368,-26.5,368,-0.312,408,-0.312" stroke-width="1.375" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="3" data-path="1.5.10" d="M328,-26.5C368,-26.5,368,26.063,408,26.063" stroke-width="1.375" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="3" data-path="1.11.12" d="M250,120.625C290,120.625,290,183.438,330,183.438" stroke-width="1.375" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="3" data-path="1.13.14" d="M367,241.375C407,241.375,407,214.813,447,214.813" stroke-width="1.375" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="3" data-path="1.13.15" d="M367,241.375C407,241.375,407,241.188,447,241.188" stroke-width="1.375" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="3" data-path="1.13.16" d="M367,241.375C407,241.375,407,267.563,447,267.563" stroke-width="1.375" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="2" data-path="1.2" d="M76,11.25C116,11.25,116,-246.375,156,-246.375" stroke-width="1.75" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="2" data-path="1.3" d="M76,11.25C116,11.25,116,-219.625,156,-219.625" stroke-width="1.75" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="2" data-path="1.5" d="M76,11.25C116,11.25,116,-26.5,156,-26.5" stroke-width="1.75" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="2" data-path="1.11" d="M76,11.25C116,11.25,116,120.625,156,120.625" stroke-width="1.75" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="2" data-path="1.13" d="M76,11.25C116,11.25,116,241.375,156,241.375" stroke-width="1.75" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="2" data-path="1.17" d="M76,11.25C116,11.25,116,268.125,156,268.125" stroke-width="1.75" stroke="rgb(227, 119, 194)"/><g class="markmap-highlight"/><g data-depth="2" data-path="1.2" class="markmap-node" transform="translate(156, -267.25)"><line stroke="#ff7f0e" stroke-width="1.75" x1="-1" x2="107" y1="20.875" y2="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="89" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">What This Is</div></div></foreignObject></g><g data-depth="3" data-path="1.3.4" class="markmap-node" transform="translate(398, -349.5)"><line stroke="#d62728" stroke-width="1.375" x1="-1" x2="702" y1="238.6875" y2="238.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="684" height="238"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="14,26">
+<thead data-lines="14,15">
+<tr data-lines="14,15">
+<th>Folder</th>
+<th>Contents</th>
+</tr>
+</thead>
+<tbody data-lines="16,26">
+<tr data-lines="16,17">
+<td><code>docs/01_product/</code></td>
+<td>Scope clarification, MVP definition, Product Requirements Document</td>
+</tr>
+<tr data-lines="17,18">
+<td><code>docs/02_architecture/</code></td>
+<td>System architecture &amp; stitching reports (consistency checks across artifacts)</td>
+</tr>
+<tr data-lines="18,19">
+<td><code>docs/03_data/</code></td>
+<td>PostgreSQL schema design (15+ tables, field-level encryption, partitioning)</td>
+</tr>
+<tr data-lines="19,20">
+<td><code>docs/04_api/</code></td>
+<td>REST API contracts (NestJS, 30+ endpoints, JWT auth, rate limiting)</td>
+</tr>
+<tr data-lines="20,21">
+<td><code>docs/05_backend/</code></td>
+<td>Temporal workflows, OCR extraction pipelines, tax rules engine</td>
+</tr>
+<tr data-lines="21,22">
+<td><code>docs/06_compliance/</code></td>
+<td>DPDP Act controls, consent gate logic, audit taxonomy, non-ERI boundary</td>
+</tr>
+<tr data-lines="22,23">
+<td><code>docs/07_frontend/</code></td>
+<td>Next.js screen specs, navigation flows, mobile-first vs desktop-first decisions</td>
+</tr>
+<tr data-lines="23,24">
+<td><code>docs/08_admin/</code></td>
+<td>Operations console, RBAC, maker-checker approvals, health monitoring</td>
+</tr>
+<tr data-lines="24,25">
+<td><code>docs/09_delivery/</code></td>
+<td>83 implementation chunks across 15 epics, 10-sprint execution plan</td>
+</tr>
+<tr data-lines="25,26">
+<td><code>resume/</code></td>
+<td>Role-tailored resume versions for Data Analyst, Financial Analyst, SWE, BA</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.3" class="markmap-node" transform="translate(156, -240.5)"><line stroke="#2ca02c" stroke-width="1.75" x1="-1" x2="164" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#2ca02c" fill="var(--markmap-circle-open-bg)" cx="162" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="146" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Repository Structure</div></div></foreignObject></g><g data-depth="3" data-path="1.5.6" class="markmap-node" transform="translate(408, -100.125)"><line stroke="#8c564b" stroke-width="1.375" x1="-1" x2="697" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="679" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Modular monolith</strong> (NestJS + Next.js + Python workers) — extractable to microservices at scale</div></div></foreignObject></g><g data-depth="3" data-path="1.5.7" class="markmap-node" transform="translate(408, -73.75)"><line stroke="#e377c2" stroke-width="1.375" x1="-1" x2="662" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="644" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Temporal workflow orchestration</strong> for durable extraction, computation, and audit pipelines</div></div></foreignObject></g><g data-depth="3" data-path="1.5.8" class="markmap-node" transform="translate(408, -47.375)"><line stroke="#7f7f7f" stroke-width="1.375" x1="-1" x2="506" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="488" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Field-level AES-256-GCM encryption</strong> for PAN/phone via AWS KMS</div></div></foreignObject></g><g data-depth="3" data-path="1.5.9" class="markmap-node" transform="translate(408, -21)"><line stroke="#bcbd22" stroke-width="1.375" x1="-1" x2="550" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="532" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Append-only immutability</strong> for extractions, computations, and audit events</div></div></foreignObject></g><g data-depth="3" data-path="1.5.10" class="markmap-node" transform="translate(408, 5.375)"><line stroke="#17becf" stroke-width="1.375" x1="-1" x2="604" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="586" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Explicit non-ERI boundary</strong> — filing-support only, with disclaimers on every output</div></div></foreignObject></g><g data-depth="2" data-path="1.5" class="markmap-node" transform="translate(156, -47.375)"><line stroke="#9467bd" stroke-width="1.75" x1="-1" x2="174" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#9467bd" fill="var(--markmap-circle-open-bg)" cx="172" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="156" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Key Design Decisions</div></div></foreignObject></g><g data-depth="3" data-path="1.11.12" class="markmap-node" transform="translate(330, 36.75)"><line stroke="#ff7f0e" stroke-width="1.375" x1="-1" x2="479" y1="146.6875" y2="146.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="461" height="146"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="37,45">
+<thead data-lines="37,38">
+<tr data-lines="37,38">
+<th>Layer</th>
+<th>Technology</th>
+</tr>
+</thead>
+<tbody data-lines="39,45">
+<tr data-lines="39,40">
+<td>Frontend</td>
+<td>Next.js 14, TypeScript, Tailwind CSS</td>
+</tr>
+<tr data-lines="40,41">
+<td>API</td>
+<td>NestJS, TypeScript, TypeORM, class-validator</td>
+</tr>
+<tr data-lines="41,42">
+<td>Workers</td>
+<td>Python, FastAPI, Temporal, pdf2image, WeasyPrint</td>
+</tr>
+<tr data-lines="42,43">
+<td>Database</td>
+<td>PostgreSQL 15, Redis 7, PgBouncer</td>
+</tr>
+<tr data-lines="43,44">
+<td>Infrastructure</td>
+<td>AWS S3 (ap-south-1), KMS, SES, ECS Fargate</td>
+</tr>
+<tr data-lines="44,45">
+<td>DevOps</td>
+<td>Docker, GitHub Actions, pnpm workspaces</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.11" class="markmap-node" transform="translate(156, 99.75)"><line stroke="#1f77b4" stroke-width="1.75" x1="-1" x2="96" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#1f77b4" fill="var(--markmap-circle-open-bg)" cx="94" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="78" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Tech Stack</div></div></foreignObject></g><g data-depth="3" data-path="1.13.14" class="markmap-node" transform="translate(447, 194.125)"><line stroke="#d62728" stroke-width="1.375" x1="-1" x2="571" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="553" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">DPDP Act 2023: consent-first data collection, right to erasure via Temporal W7</div></div></foreignObject></g><g data-depth="3" data-path="1.13.15" class="markmap-node" transform="translate(447, 220.5)"><line stroke="#9467bd" stroke-width="1.375" x1="-1" x2="610" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="592" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">IT Act 2000 / SPDI Rules 2011: reasonable security practices, 7-year audit retention</div></div></foreignObject></g><g data-depth="3" data-path="1.13.16" class="markmap-node" transform="translate(447, 246.875)"><line stroke="#8c564b" stroke-width="1.375" x1="-1" x2="625" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="607" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Non-ERI boundary: never claims to file returns; all outputs labeled "ESTIMATE ONLY"</div></div></foreignObject></g><g data-depth="2" data-path="1.13" class="markmap-node" transform="translate(156, 220.5)"><line stroke="#2ca02c" stroke-width="1.75" x1="-1" x2="213" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#2ca02c" fill="var(--markmap-circle-open-bg)" cx="211" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="195" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Compliance &amp; Risk Posture</div></div></foreignObject></g><g data-depth="2" data-path="1.17" class="markmap-node" transform="translate(156, 247.25)"><line stroke="#e377c2" stroke-width="1.75" x1="-1" x2="137" y1="20.875" y2="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="119" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Delivery Backlog</div></div></foreignObject></g><g data-depth="1" data-path="1" class="markmap-node" transform="translate(0, -10)"><line stroke="#1f77b4" stroke-width="2.5" x1="-1" x2="78" y1="21.25" y2="21.25"/><circle stroke-width="1.5" r="6" stroke="#1f77b4" fill="var(--markmap-circle-open-bg)" cx="76" cy="21.25"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="60" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">TaxLens</div></div></foreignObject></g></g></svg>
