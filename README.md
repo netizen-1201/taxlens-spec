@@ -79,4 +79,10 @@ See [`docs/09_delivery/`](docs/09_delivery/) for the implementation backlog:
 
 ---
 
+## License
+
+© 2025 Sahil Zafar. This specification is licensed under [CC BY-NC-ND 4.0](LICENSE).
+You may view and share this work for non-commercial purposes.
+Commercial use, modification, or derivative works are prohibited without written permission.
+
 **Contact:** sahilzafar1201@gmail.com | Jabalpur, Madhya Pradesh, India
